@@ -13,6 +13,6 @@
 ## CSS BACKGROUND DEGRADADO
 Aca les comparto un simple codigo de css para lo que quieran hacer un bello background solo usando propiedades de css, aparte les dejo el link de una pagina donde podran ir configurando el background que mas les guste
 
-`https://cssgradient.io/`
 
+`https://cssgradient.io/`
 :tw-1f60a:
