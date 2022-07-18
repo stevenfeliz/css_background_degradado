@@ -1,0 +1,8 @@
+
+
+/*BUSCA EL COLOR QUE QUIERAS DE LA PAGINA Y SOLO CAMBIAR LO QUE ESTA ADENTRO DEL BODY*/
+
+body{
+    background: rgb(0,212,255);
+background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(203,203,238,1) 41%, rgba(71,143,241,1) 100%);
+}
